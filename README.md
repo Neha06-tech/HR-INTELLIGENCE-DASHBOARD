@@ -51,13 +51,6 @@ Page 2 — Payroll Risk & Intelligence: risk KPIs, ranked employee risk table, a
 
 ---
 
-## How to use (quick)
-1. Open `ZENVY_Payroll_Dashboard.pbix` in Power BI.  
-2. Configure parameters: pay period, overtime cap, leakage multiplier.  
-3. Review Executive Overview, then triage on Risk & Intelligence and export flagged cases for investigation.
-
----
-
 ## Next steps (recommended)
 - Generate a FactPayroll CSV (script available) to populate Payroll rows.  
 - Implement DAX measures and parameter slicers.  
