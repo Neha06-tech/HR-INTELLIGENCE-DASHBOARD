@@ -56,4 +56,16 @@ Page 2 — Payroll Risk & Intelligence: risk KPIs, ranked employee risk table, a
 - Implement DAX measures and parameter slicers.  
 - Add an investigation log and monthly executive scorecard.
 
+## Dashboard Preview
+
+![Executive Payroll Dashboard – Overview](dashboard_overview1.png)
+
+![Executive Payroll Dashboard – Payroll Summary](dashboard_overview2.png)
+
+![Executive Payroll Dashboard – Department Analysis](dashboard_overview3.png)
+
+![Executive Payroll Dashboard – Risk Intelligence](dashboard_overview4.png)
+
+![Executive Payroll Dashboard – KPI Insights](dashboard_overview5.png)
+
 
