@@ -56,4 +56,4 @@ Page 2 — Payroll Risk & Intelligence: risk KPIs, ranked employee risk table, a
 - Implement DAX measures and parameter slicers.  
 - Add an investigation log and monthly executive scorecard.
 
-For implementation support (synthetic payroll generation, .pbix build, or thresholds tuning) contact: Neha06-tech.
+
