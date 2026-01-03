@@ -57,15 +57,19 @@ Page 2 — Payroll Risk & Intelligence: risk KPIs, ranked employee risk table, a
 - Add an investigation log and monthly executive scorecard.
 
 ## Dashboard Preview
-
+## EXECUTIVE PAYROLL OVERALL
 ![Executive Payroll Dashboard – Overview](dashboard_overview1.png)
 
+## PAYROLL RISK INTELLIENCE
 ![Executive Payroll Dashboard – Payroll Summary](dashboard_overview2.png)
 
+## INSIGHTS AND KPI DEFINITIONS
 ![Executive Payroll Dashboard – Department Analysis](dashboard_overview3.png)
 
+## KPI DEFINITION REFERRENCE
 ![Executive Payroll Dashboard – Risk Intelligence](dashboard_overview4.png)
 
+## OVERTIME KPI'S
 ![Executive Payroll Dashboard – KPI Insights](dashboard_overview5.png)
 
 
